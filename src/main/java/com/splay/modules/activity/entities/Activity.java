@@ -1,4 +1,4 @@
-package com.splay.domain.entities;
+package com.splay.modules.activity.entities;
 
 import java.util.Date;
 

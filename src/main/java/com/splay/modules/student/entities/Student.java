@@ -1,4 +1,4 @@
-package com.splay.domain.entities;
+package com.splay.modules.student.entities;
 
 public class Student {
     private String Id;
