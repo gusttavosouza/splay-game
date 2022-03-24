@@ -1,4 +1,8 @@
-package com.splay.modules.student.repositories;
+package com.splay.modules.Student.Repositories;
 
+/**
+ * ActivityRepository
+ */
 public class StudentRepository {
+
 }

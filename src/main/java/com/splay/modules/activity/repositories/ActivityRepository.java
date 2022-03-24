@@ -1,4 +1,5 @@
-package com.splay.modules.activity.repositories;
+package com.splay.modules.Activity.Repositories;
 
 public class ActivityRepository {
+
 }
